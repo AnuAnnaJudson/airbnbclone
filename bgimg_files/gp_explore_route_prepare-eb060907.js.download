@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["fd2c"],{"0tUy":function(e,t,o){"use strict";o.r(t);var a=o("DJ+W"),c=o("xiNs"),s=o("o/Gj");t.default=e=>{let{location:t}=e,o=babelHelpers.objectWithoutPropertiesLoose(e,["location"]);return(Object(s.b)(t.search)?c.default:a.default)(Object.assign({location:t},o))}}}]);
+//# sourceMappingURL=https://sourcemaps.d.musta.ch/airbnb/static/packages/gp_explore_route_prepare-f45890ff.js.map

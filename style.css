@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.default{
+    display: flex;
+    width: 100%;
+    background-color:white;
+}
+#logo_style{
+    width: 130;
+}
+
+#icon_style{
+    background-color: #FF385C;
+    padding: 5px;
+    height: 21px;
+    border-radius: 100%;
+    margin-left: 50px;
+    color: white;
+}
+#bx_style{
+    border: 0; 
+    margin-left: 17px; 
+    color: white;
+}
+.bx_text{
+    background-color: white;
+    padding: 10px;
+    height: 50%;
+    margin-top: 23px;
+    border-radius: 25px;
+    margin-left: 400px;
+    box-shadow: 2px 2px 2px grey;
+    width: 279px;
+    display: flex;
+}
+input#ip_style{
+    width:300px; 
+    margin-left: 100px;
+    border:0;
+    width: 110px;
+    background-color:#FF385C;
+    height: 35px;
+    margin-top: 25px;
+    border-radius: 25px;
+
+    
+}
+input#ip_style:hover{
+    background-color: #B0B0B0;
+    border-radius: 25px;
+}
+.b_style{
+    padding: 4px;
+    background-color:white;
+    height: 30px;
+    width: 45px;
+    /* border-color:#B0B0B0 ; */
+    border: solid 1px #B0B0B0 ;
+    border-radius: 25px;
+    /* box-shadow: 2px 2px 2px grey; */
+    margin-top: 25px;
+}
+.b_style:hover{
+    cursor: pointer;
+    color: #FF385C;
+    /* background-color:white ; */
+}
+.glob:hover{
+    cursor: pointer;
+    background-color:#B0B0B0 ;
+    color:#FF385C ;
+}
+body
+{
+    background-image: url("bg_img.jpg");
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-position-x: center;
+    align-content: center; 
+    height: 50%; 
+}
+.text_style{
+    /* margin-top: 600px;  */
+    color: aliceblue;
+    font-size: 18px;
+}
+.btn_style{
+    padding: 22px 56px;
+    border-radius: 67px;
+    background-color:#FFFF;
+    box-shadow: 2px 2px 2px grey;
+}
+.inner_box{
+    margin-top: 250px;
+    margin-left: 560px;
+}
+._6tbg2q{
+    
+    vertical-align: bottom;
+    height: 64px;
+    width: 64px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
